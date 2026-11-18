@@ -1,0 +1,5 @@
+.env
+.venv/
+farmer_database/
+__pycache__/
+farmer_question.wav
